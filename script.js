@@ -1,7 +1,7 @@
 // Update only this data
-const fhsRepo = 'assets'; // Your repository name
+const fhsRepo = 'github-directory-listing'; // Your repository name
         const fhsOwner = 'fuadhasanshihab'; // Your GitHub username
-        const fhsBranch = 'main'; // Your branch name
+        const fhsBranch = 'assets'; // Your branch name
 // // //
 
 
