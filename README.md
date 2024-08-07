@@ -2,7 +2,7 @@
 
 A web application for displaying GitHub repository files and directories. This project provides a clean and interactive directory listing view with features like dark mode and breadcrumb navigation.
 
-![Project Banner](path-to-your-project-banner-image)
+![Project Banner](https://raw.githubusercontent.com/fuadhasanshihab/GithubDirectoryListing/assets/images/demo.jpg)
 
 ## 🚀 Demo
 
@@ -13,6 +13,7 @@ A web application for displaying GitHub repository files and directories. This p
 
 **Live Demo:** [View the live demo](https://fuadhasanshihab.github.io/GithubDirectoryListing)
 
+<!--
 ## 🛠 How It Works
 
 1. **Initialize:** On page load, the application initializes by fetching files from a GitHub repository using the GitHub API.
@@ -30,9 +31,7 @@ A web application for displaying GitHub repository files and directories. This p
 - **Responsive Design:** Optimized for both desktop and mobile views.
 - **Error Handling:** Shows an error message if files cannot be loaded.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+-->
 
 ## 💻 Instructions
 
@@ -69,3 +68,7 @@ Contributions are welcome! Please follow the steps below to contribute:
 - **Fuad Hasan Shihab:** Creator of this project. [GitHub Profile](https://github.com/fuadhasanshihab)
 - **Material Icons:** For the icons used in the project.
 - **Titillium Web:** Custom font used in the design.
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
