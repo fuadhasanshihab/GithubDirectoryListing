@@ -11,7 +11,7 @@ A web application for displaying GitHub repository files and directories. This p
 - **Mobile View:**
   ![Mobile Demo](path-to-your-mobile-demo-image)
 
-**Live Demo:** [View the live demo](https://fuadhasanshihab.github.io/github-directory-listing)
+**Live Demo:** [View the live demo](https://fuadhasanshihab.github.io/GithubDirectoryListing)
 
 ## 🛠 How It Works
 
