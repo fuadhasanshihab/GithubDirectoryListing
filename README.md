@@ -5,12 +5,12 @@ A web application for displaying GitHub repository files and directories. This p
 ![Project Banner](https://raw.githubusercontent.com/fuadhasanshihab/GithubDirectoryListing/assets/images/demo.jpg)
 
 ## 🚀 Demo
-
+<!--
 - **Desktop View:**
   ![Desktop Demo](path-to-your-desktop-demo-image)
 - **Mobile View:**
   ![Mobile Demo](path-to-your-mobile-demo-image)
-
+-->
 **Live Demo:** [View the live demo](https://fuadhasanshihab.github.io/GithubDirectoryListing)
 
 <!--
