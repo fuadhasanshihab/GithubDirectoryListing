@@ -52,6 +52,7 @@ A web application for displaying GitHub repository files and directories. This p
 
 If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/fuadhasanshihab/github-directory-listing/issues) on GitHub.
 
+<!--
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow the steps below to contribute:
@@ -62,6 +63,7 @@ Contributions are welcome! Please follow the steps below to contribute:
 4. Commit your changes (`git commit -am 'Add new feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a new Pull Request.
+-->
 
 ## 📝 Acknowledgments
 
